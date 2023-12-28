@@ -1,10 +1,12 @@
-package com.cydeo.loosely_coupled.motherboardfactory;
+package com.cydeo.loosely_coupled;
 
 import com.cydeo.loosely_coupled.PC;
 import com.cydeo.loosely_coupled.casefactory.Case;
 import com.cydeo.loosely_coupled.casefactory.DellCase;
 import com.cydeo.loosely_coupled.monitorfactory.AcerMonitor;
 import com.cydeo.loosely_coupled.monitorfactory.Monitor;
+import com.cydeo.loosely_coupled.motherboardfactory.AsusMotherBoard;
+import com.cydeo.loosely_coupled.motherboardfactory.MotherBoard;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package stereotype_annotation.casefactory;
+package com.cydeo.stereotype_annotation.casefactory;
 
 import lombok.Getter;
 import org.springframework.stereotype.Component;
@@ -6,8 +6,8 @@ import org.springframework.stereotype.Component;
 @Getter
 @Component
 public class DellCase extends Case{
-    public DellCase(String model, String manufacture, String powerSupply) {
-        super(model, manufacture, powerSupply);
+    public DellCase() {
+        super("2208","Dell","240");
     }
 
     @Override

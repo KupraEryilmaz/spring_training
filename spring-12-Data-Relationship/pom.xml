@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cydeo</groupId>
-	<artifactId>spring-11-Data-Relationship</artifactId>
+	<artifactId>spring-12-Data-Relationship</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-11-Data-Relationship</name>
 	<description>spring-11-Data-Relationship</description>
